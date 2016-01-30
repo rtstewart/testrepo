@@ -1,0 +1,1 @@
+If GitHub finds a Markdown file named “CONTRIBUTING.md” in the root of you repository, it will display a custom link to the “guidelines for contributing” to the repository. Use this special file when you need to provide instructions on how you prefer to receive contributions to outside contributors, such as when managing an open-source project.
